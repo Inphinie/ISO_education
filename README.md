@@ -107,19 +107,6 @@ Le cycle EDRM se transpose au dossier étudiant. La table ci-dessous résume la 
 
 ---
 
-## Structure du dépôt
-
-/papers → rapport technique complet (ISO-IVIM_foundation.md)
-/specs → mapping ISO 27050 / EDRM → JSON-LD schemas ISO 8000
-/implementations→ pilotes, slides, SlideChain demos
-/experiments → tests C2PA, DID resolution, VC issuance
-/roadmap → timeline & governance proposals
-
-yaml
-Copier le code
-
----
-
 ## A propos & licence
 
 **Auteur principal :** Bryan Ouellette — Independent Researcher  
